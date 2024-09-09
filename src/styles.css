@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+/* styles.css */
+body {
+    overflow-x: hidden; /* Prevent horizontal scroll */
+    background: linear-gradient(to right, #1a1420, #5e646e); /* Gradient from purple to blue */
+}/* styles.css or your main CSS file */
+
+.side{
+    background: linear-gradient(to right, #a1a0a0, #5e646e); /* Gradient from purple to blue */
+}
